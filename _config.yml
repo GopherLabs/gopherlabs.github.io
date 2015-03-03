@@ -1,5 +1,6 @@
 # Site settings
-title: Gopher Labs Blog
+metatitle: "Gopher Labs: GoLang Consulting Services"
+title: "Gopher Labs Blog"
 header-img: img/home-bg.jpg
 email: your-email@yourdomain.com
 description: "Gopher Labs: GoLang Consulting Services"
