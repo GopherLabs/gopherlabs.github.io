@@ -1,8 +1,8 @@
 # Site settings
-title: GopherLabs Blog
+title: Gopher Labs Blog
 header-img: img/home-bg.jpg
 email: your-email@yourdomain.com
-description: "GopherLabs: GoLang Consulting Services"
+description: "Gopher Labs: GoLang Consulting Services"
 baseurl: ""
 url: "http://gopherlabs.io"
 twitter_username: gopherlabsio
