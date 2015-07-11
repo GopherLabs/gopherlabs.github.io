@@ -1,12 +1,11 @@
 # Site settings
-metatitle: "Gopher Labs: GoLang Consulting Services"
-title: "Gopher Labs Blog"
+metatitle: "Booster Apps"
+title: "Booster Apps"
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-description: "Gopher Labs: GoLang Consulting Services"
+email: steve@shopifyboosterapps.com
+description: "Creating apps to boost your shopify experience"
 baseurl: ""
-url: "http://gopherlabs.io"
-twitter_username: gopherlabsio
+url: "http://shopfifyboosterapps.com"
 
 # Build settings
 markdown: kramdown
